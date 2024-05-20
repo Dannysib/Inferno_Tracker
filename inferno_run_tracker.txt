@@ -1,0 +1,21 @@
+Username: Danneh
+Current day of attempts: 1
+Current wave: 10
+Notes: it went bad
+Total attempts: 1
+Highest wave all time: 10
+----------
+Username: Danneh
+Current day of attempts: 1
+Current wave: 25
+Notes: was better
+Total attempts: 2
+Highest wave all time: 25
+----------
+Username: Danneh
+Current day of attempts: 1
+Current wave: 30
+Notes: OKAYYY
+Total attempts: 3
+Highest wave all time: 30
+----------
